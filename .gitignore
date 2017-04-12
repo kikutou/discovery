@@ -8,4 +8,4 @@
 /wp-config.php
 
 # phpstormの設定フォルダを無視する
-# /.idea/
+/.idea/
